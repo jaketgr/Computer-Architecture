@@ -1,0 +1,277 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab2
+Pbv_arithmetic
+!i122 51
+w1695913482
+Z0 dC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab3
+8C:/Users/jaket/Downloads/bva.vhd
+FC:/Users/jaket/Downloads/bva.vhd
+l0
+L15 1
+VLZgoU72;<NkmOWPlz8?Of2
+!s100 DK;Y`J0lJAh`j:XUgQ7B<1
+Z1 OV;C;2020.1;71
+32
+b1
+Z2 !s110 1698864445
+!i10b 1
+Z3 !s108 1698864445.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/Downloads/bva.vhd|
+!s107 C:/Users/jaket/Downloads/bva.vhd|
+!i113 1
+Z4 o-work work -2002 -explicit
+Z5 tExplicit 1 CvgOpt 0
+Bbody
+Z6 DPx4 work 13 bv_arithmetic 0 22 LZgoU72;<NkmOWPlz8?Of2
+!i122 52
+w1695913475
+8C:/Users/jaket/Downloads/bva-b.vhd
+FC:/Users/jaket/Downloads/bva-b.vhd
+l0
+L1 1
+VIOX_LK53`U3VRDI:D^iY00
+!s100 ;^d^hPQojBY3:39_Lf`ZP1
+R1
+32
+R2
+!i10b 1
+R3
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/Downloads/bva-b.vhd|
+!s107 C:/Users/jaket/Downloads/bva-b.vhd|
+!i113 1
+R4
+R5
+Edlx_register
+Z7 w1698863417
+Z8 DPx4 work 9 dlx_types 0 22 SfgQL^gT<gj;>DaGVOmaZ3
+R6
+!i122 56
+R0
+Z9 8C:/Users/jaket/Downloads/dlx_register.vhd
+Z10 FC:/Users/jaket/Downloads/dlx_register.vhd
+l0
+L6 1
+VAEZBHDQKUm`z_BU3CaAIH2
+!s100 R4@;^SOC0^WzVTd@62QEJ1
+R1
+32
+Z11 !s110 1698864446
+!i10b 1
+Z12 !s108 1698864446.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/Downloads/dlx_register.vhd|
+Z14 !s107 C:/Users/jaket/Downloads/dlx_register.vhd|
+!i113 1
+R4
+R5
+Abehavior
+R8
+R6
+DEx4 work 12 dlx_register 0 22 AEZBHDQKUm`z_BU3CaAIH2
+!i122 56
+l12
+L11 9
+Vn]S6UemEjA^0Xd5JdY2Gn3
+!s100 lHgOgcLchagUmgFVURGZD2
+R1
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R4
+R5
+Pdlx_types
+!i122 50
+w1695913487
+R0
+8C:/Users/jaket/Downloads/dlx-types.vhd
+FC:/Users/jaket/Downloads/dlx-types.vhd
+l0
+L2 1
+VSfgQL^gT<gj;>DaGVOmaZ3
+!s100 E2c;:eYf;hh[jFU?F_ci41
+R1
+32
+R2
+!i10b 1
+R3
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/Downloads/dlx-types.vhd|
+!s107 C:/Users/jaket/Downloads/dlx-types.vhd|
+!i113 1
+R4
+R5
+Emux
+Z15 w1698860687
+R8
+R6
+!i122 53
+R0
+Z16 8C:/Users/jaket/Downloads/mux.vhd
+Z17 FC:/Users/jaket/Downloads/mux.vhd
+l0
+L6 1
+V2@jholCVi;9;0X:am@EZF1
+!s100 QlTXeKX?[IH>D3UcoR74j1
+R1
+32
+R11
+!i10b 1
+R12
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/Downloads/mux.vhd|
+Z19 !s107 C:/Users/jaket/Downloads/mux.vhd|
+!i113 1
+R4
+R5
+Abehavior
+R8
+R6
+DEx4 work 3 mux 0 22 2@jholCVi;9;0X:am@EZF1
+!i122 53
+l12
+L11 15
+VUPaH9M2^IkdU_4iW95jzX3
+!s100 Bz[:TXz]AZJ^nZ=ak0VKW1
+R1
+32
+R11
+!i10b 1
+R12
+R18
+R19
+!i113 1
+R4
+R5
+Epcplusone
+Z20 w1698860686
+R8
+R6
+!i122 52
+R0
+Z21 8C:/Users/jaket/Downloads/pcplusone.vhd
+Z22 FC:/Users/jaket/Downloads/pcplusone.vhd
+l0
+L6 1
+V70?S<P91P@?bYmNim@>ji3
+!s100 :DbA:M7<h@[76HRV]8<m=2
+R1
+32
+R2
+!i10b 1
+R3
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/Downloads/pcplusone.vhd|
+Z24 !s107 C:/Users/jaket/Downloads/pcplusone.vhd|
+!i113 1
+R4
+R5
+Abehavior
+R8
+R6
+DEx4 work 9 pcplusone 0 22 70?S<P91P@?bYmNim@>ji3
+!i122 52
+l12
+L11 12
+V5Dz5PPS29OldL_3]DL^@32
+!s100 j?:7oM9gQI:D<[V?d@9dZ0
+R1
+32
+R2
+!i10b 1
+R3
+R23
+R24
+!i113 1
+R4
+R5
+Ereg_file
+Z25 w1698860685
+R8
+R6
+!i122 54
+R0
+Z26 8C:/Users/jaket/Downloads/reg_file.vhd
+Z27 FC:/Users/jaket/Downloads/reg_file.vhd
+l0
+L6 1
+Vdc1@;n2E]E7X[3UYaSAXz0
+!s100 if0i[Oik1;Dz]e[;;=DKM2
+R1
+32
+R11
+!i10b 1
+R12
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/Downloads/reg_file.vhd|
+Z29 !s107 C:/Users/jaket/Downloads/reg_file.vhd|
+!i113 1
+R4
+R5
+Abehavior
+R8
+R6
+DEx4 work 8 reg_file 0 22 dc1@;n2E]E7X[3UYaSAXz0
+!i122 54
+l14
+L12 19
+VzI8GFoX_RGk1F6j^6A@nL2
+!s100 81N2LG_]zS8az0T:Fa]4J3
+R1
+32
+R11
+!i10b 1
+R12
+R28
+R29
+!i113 1
+R4
+R5
+Ethreeway_mux
+Z30 w1698862613
+R8
+R6
+!i122 55
+R0
+Z31 8C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab3/threeway_mux.vhd
+Z32 FC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab3/threeway_mux.vhd
+l0
+L7 1
+VQLT@h>Ehc>gZ@@SANY6z70
+!s100 35F95JhJ;2lNT8m2TOjmX2
+R1
+32
+R11
+!i10b 1
+R12
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab3/threeway_mux.vhd|
+Z34 !s107 C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab3/threeway_mux.vhd|
+!i113 1
+R4
+R5
+Abehavior
+R8
+R6
+DEx4 work 12 threeway_mux 0 22 QLT@h>Ehc>gZ@@SANY6z70
+!i122 55
+l14
+L13 16
+VYJjJXjDR>X=lQ[2^BhE_=2
+!s100 ;4_TUWMhJL1<GiDT@FVl>3
+R1
+32
+R11
+!i10b 1
+R12
+R33
+R34
+!i113 1
+R4
+R5

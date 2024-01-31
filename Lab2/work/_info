@@ -1,0 +1,113 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jaket/Downloads
+Ealu
+Z0 w1696538578
+Z1 DPx4 work 13 bv_arithmetic 0 22 LZgoU72;<NkmOWPlz8?Of2
+Z2 DPx4 work 9 dlx_types 0 22 SfgQL^gT<gj;>DaGVOmaZ3
+!i122 51
+Z3 dC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab2
+Z4 8C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab2/alu.vhd
+Z5 FC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab2/alu.vhd
+l0
+L5 1
+Ve4kR3lBRiOZ_c`BZkC6XB1
+!s100 fcI83@c_8nBkhTT38A:FJ1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1696539979
+!i10b 1
+Z8 !s108 1696539979.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab2/alu.vhd|
+Z10 !s107 C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab2/alu.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Alogic
+R1
+R2
+Z13 DEx4 work 3 alu 0 22 e4kR3lBRiOZ_c`BZkC6XB1
+!i122 51
+l17
+Z14 L16 81
+Z15 VzEM0Te=KS8=d?`3JndXc02
+Z16 !s100 X1;Pl<z7TM?RAmG<YC7lF3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Pbv_arithmetic
+!i122 50
+w1695913482
+R3
+8C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab2/bva.vhd
+FC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab2/bva.vhd
+l0
+L15 1
+VLZgoU72;<NkmOWPlz8?Of2
+!s100 DK;Y`J0lJAh`j:XUgQ7B<1
+R6
+32
+b1
+R7
+!i10b 1
+R8
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab2/bva.vhd|
+!s107 C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab2/bva.vhd|
+!i113 1
+R11
+R12
+Bbody
+R1
+!i122 51
+w1695913475
+8C:/Users/jaket/Downloads/bva-b.vhd
+FC:/Users/jaket/Downloads/bva-b.vhd
+l0
+L1 1
+VIOX_LK53`U3VRDI:D^iY00
+!s100 ;^d^hPQojBY3:39_Lf`ZP1
+R6
+32
+R7
+!i10b 1
+R8
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/Downloads/bva-b.vhd|
+!s107 C:/Users/jaket/Downloads/bva-b.vhd|
+!i113 1
+R11
+R12
+Pdlx_types
+!i122 49
+w1695913487
+R3
+8C:/Users/jaket/Downloads/dlx-types.vhd
+FC:/Users/jaket/Downloads/dlx-types.vhd
+l0
+L2 1
+VSfgQL^gT<gj;>DaGVOmaZ3
+!s100 E2c;:eYf;hh[jFU?F_ci41
+R6
+32
+R7
+!i10b 1
+R8
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/Downloads/dlx-types.vhd|
+!s107 C:/Users/jaket/Downloads/dlx-types.vhd|
+!i113 1
+R11
+R12

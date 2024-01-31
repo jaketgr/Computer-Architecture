@@ -1,0 +1,57 @@
+C:/Users/jaket/Downloads/bva-b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jaket/Downloads/bva-b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling package body bv_arithmetic
+-- Loading package bv_arithmetic
+
+} {} {}} {C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab3/threeway_mux.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab3/threeway_mux.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package bv_arithmetic
+-- Loading package dlx_types
+-- Compiling entity threeway_mux
+-- Compiling architecture behavior of threeway_mux
+
+} {} {}} C:/Users/jaket/Downloads/dlx_register.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jaket/Downloads/dlx_register.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package bv_arithmetic
+-- Loading package dlx_types
+-- Compiling entity dlx_register
+-- Compiling architecture behavior of dlx_register
+
+} {} {}} C:/Users/jaket/Downloads/bva.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jaket/Downloads/bva.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling package bv_arithmetic
+
+} {} {}} C:/Users/jaket/Downloads/pcplusone.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jaket/Downloads/pcplusone.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package bv_arithmetic
+-- Loading package dlx_types
+-- Compiling entity pcplusone
+-- Compiling architecture behavior of pcplusone
+
+} {} {}} C:/Users/jaket/Downloads/reg_file.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jaket/Downloads/reg_file.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package bv_arithmetic
+-- Loading package dlx_types
+-- Compiling entity reg_file
+-- Compiling architecture behavior of reg_file
+
+} {} {}} C:/Users/jaket/Downloads/dlx-types.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jaket/Downloads/dlx-types.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling package dlx_types
+
+} {} {}} C:/Users/jaket/Downloads/mux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jaket/Downloads/mux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package bv_arithmetic
+-- Loading package dlx_types
+-- Compiling entity mux
+-- Compiling architecture behavior of mux
+
+} {} {}}

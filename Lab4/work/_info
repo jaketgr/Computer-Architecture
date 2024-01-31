@@ -1,0 +1,463 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab3
+Ealu
+Z0 w1701198377
+Z1 DPx4 work 13 bv_arithmetic 0 22 LZgoU72;<NkmOWPlz8?Of2
+Z2 DPx4 work 9 dlx_types 0 22 SfgQL^gT<gj;>DaGVOmaZ3
+!i122 63
+Z3 dC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4
+Z4 8C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/datapath_aubie_v2.vhd
+Z5 FC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/datapath_aubie_v2.vhd
+l0
+L38 1
+V<1e@=D=H:l^F?g0`33chT2
+!s100 e4@RYRd_^OB:@XDV>UL2m0
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1701200349
+!i10b 1
+Z8 !s108 1701200349.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/datapath_aubie_v2.vhd|
+Z10 !s107 C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/datapath_aubie_v2.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavior
+R1
+R2
+Z13 DEx4 work 3 alu 0 22 <1e@=D=H:l^F?g0`33chT2
+!i122 63
+l45
+Z14 L44 81
+VUC[@m]2T3>mkJzE3ZJ]UF3
+!s100 @A0nMjESf6gFiU;D6Aa:D1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Alogic
+R1
+R2
+R13
+!i122 53
+l45
+R14
+Vf6jHaPUOiz61cY791>>eO1
+!s100 CA[WMSzcX^X[ElbLI_ziI0
+R6
+32
+!s110 1701198218
+!i10b 1
+!s108 1701198218.000000
+R9
+R10
+!i113 1
+R11
+R12
+w1701197940
+Eaubie
+Z15 w1701198084
+R2
+R1
+!i122 64
+R3
+Z16 8C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/interconnect_aubie.vhd
+Z17 FC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/interconnect_aubie.vhd
+l0
+L6 1
+VhjDUUV^]a=cKz]j`fj@XI2
+!s100 ^BkcC0=[[Z=7dOM<k:9AG1
+R6
+32
+Z18 !s110 1701200350
+!i10b 1
+R8
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/interconnect_aubie.vhd|
+Z20 !s107 C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/interconnect_aubie.vhd|
+!i113 1
+R11
+R12
+Astruct
+Z21 DEx4 work 9 pcplusone 0 22 =eL<^^E;2A7hziTd75JO00
+Z22 DEx4 work 12 threeway_mux 0 22 ZY2HlJAP<_imWFl8RPZ6;3
+Z23 DEx4 work 3 mux 0 22 eUPm2g<9[[eHh@UG;Q`QV2
+R13
+Z24 DEx4 work 8 reg_file 0 22 zaWYOlC<ZFH@C6HLhMBdl1
+Z25 DEx4 work 12 dlx_register 0 22 NKF>@YEh>?ZAEg?eFG@VE1
+Z26 DEx4 work 6 memory 0 22 lBJ13SMJJBe5=1HgYWWK;2
+Z27 DEx4 work 16 aubie_controller 0 22 >IVH^^1CDG_o;oc<:?fj^2
+R2
+R1
+DEx4 work 5 aubie 0 22 hjDUUV^]a=cKz]j`fj@XI2
+!i122 64
+l41
+L10 176
+Vic>g>e?=6ZMo?Q9e@Be>k0
+!s100 >272Z01ZeP8OIJgb]omWi1
+R6
+32
+R18
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12
+Eaubie_controller
+Z28 w1701198214
+R2
+R1
+!i122 62
+R3
+Z29 8C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/control_aubie_v1.vhd
+Z30 FC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/control_aubie_v1.vhd
+l0
+L4 1
+V>IVH^^1CDG_o;oc<:?fj^2
+!s100 ?biN?8EZa13l47Yb?kYaM1
+R6
+32
+R7
+!i10b 1
+R8
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/control_aubie_v1.vhd|
+Z32 !s107 C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/control_aubie_v1.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R2
+R1
+R27
+!i122 62
+l31
+L30 343
+VdF8jOHYY78:Yd`K;IfSk<0
+!s100 jJdKj>^_DmYacPA]cEOPZ1
+R6
+32
+R7
+!i10b 1
+R8
+R31
+R32
+!i113 1
+R11
+R12
+Pbv_arithmetic
+!i122 65
+w1701191618
+R3
+8C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/bva.vhd
+FC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/bva.vhd
+l0
+L15 1
+VLZgoU72;<NkmOWPlz8?Of2
+!s100 DK;Y`J0lJAh`j:XUgQ7B<1
+R6
+32
+b1
+R18
+!i10b 1
+Z33 !s108 1701200350.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/bva.vhd|
+!s107 C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/bva.vhd|
+!i113 1
+R11
+R12
+Bbody
+R1
+!i122 66
+w1701191622
+8C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/bva-b.vhd
+FC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/bva-b.vhd
+l0
+L1 1
+VIOX_LK53`U3VRDI:D^iY00
+!s100 ;^d^hPQojBY3:39_Lf`ZP1
+R6
+32
+R18
+!i10b 1
+R33
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/bva-b.vhd|
+!s107 C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/bva-b.vhd|
+!i113 1
+R11
+R12
+Edlx_register
+R0
+R2
+!i122 63
+R3
+R4
+R5
+l0
+L129 1
+VNKF>@YEh>?ZAEg?eFG@VE1
+!s100 3zGDmh4l_elTC7n7dUTR43
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R2
+R25
+!i122 63
+l136
+L135 9
+ViQ1oA`?AYbfTo3V@1gPK93
+!s100 8zGH=a6=>zCc@mi>7ZKc33
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Pdlx_types
+!i122 66
+w1701191615
+R3
+8C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/dlx-types.vhd
+FC:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/dlx-types.vhd
+l0
+L2 1
+VSfgQL^gT<gj;>DaGVOmaZ3
+!s100 E2c;:eYf;hh[jFU?F_ci41
+R6
+32
+R18
+!i10b 1
+R33
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/dlx-types.vhd|
+!s107 C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab4/dlx-types.vhd|
+!i113 1
+R11
+R12
+Ememory
+R0
+R1
+R2
+!i122 63
+R3
+R4
+R5
+l0
+L218 1
+VlBJ13SMJJBe5=1HgYWWK;2
+!s100 U6^0S@A55gYhile2?45ez2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+R26
+!i122 63
+l230
+L228 64
+V5P6Wzb2_7MkPnTSf@m;IH1
+!s100 >Z;@`J;A=3X:51iN5mENf1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emux
+R0
+R2
+!i122 63
+R3
+R4
+R5
+l0
+L172 1
+VeUPm2g<9[[eHh@UG;Q`QV2
+!s100 lN_1OaQ^UX=]eGRl[2_F?0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R2
+R23
+!i122 63
+l178
+L177 11
+V>8ONU=l]e2@SzUSYiSL6;0
+!s100 X[IhQDeB1oioV9OUN_i_[2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Epcplusone
+R0
+R1
+R2
+!i122 63
+R3
+R4
+R5
+l0
+L150 1
+V=eL<^^E;2A7hziTd75JO00
+!s100 `67P>7KLXdTZMdmYzM0b41
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+R21
+!i122 63
+l156
+L155 12
+V1PEkc:TO>CdI8A=2=^>XC0
+!s100 =hGc79lloQcAh45i?Mj6C1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ereg_file
+R0
+R1
+R2
+!i122 63
+R3
+R4
+R5
+l0
+L7 1
+VzaWYOlC<ZFH@C6HLhMBdl1
+!s100 2`lL`d9W]N`G0Rl??;H203
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+R24
+!i122 63
+l15
+L13 19
+VH?LC>fH;_oE33H<@PEF3j0
+!s100 49SBbdWGeO?;Y7dHMQd9?0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ethreeway_mux
+R0
+R2
+!i122 63
+R3
+R4
+R5
+l0
+L193 1
+VZY2HlJAP<_imWFl8RPZ6;3
+!s100 ?>g:XXg6Tl4[hRjQfW06n0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R2
+R22
+!i122 63
+l199
+L198 13
+VYD=V?XCnX5Nb7Wc4O9W7Z3
+!s100 DX8[QH>1jGC7O>TLR8bV82
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12

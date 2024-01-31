@@ -1,0 +1,7 @@
+{C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jaket/OneDrive/Desktop/Auburn Classes/Computer Architecture/Lab1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity evenparityGate
+-- Compiling architecture behavior1 of evenparityGate
+
+} {} {}}
